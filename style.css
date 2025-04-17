@@ -12,3 +12,14 @@
     margin-top: 40px;
 }
 
+.custom-product{
+    margin: 5px;
+    width: 253px;
+    height: 385px;
+}
+
+@media screen and (max-width: 1399px) {
+    .custom-product{
+        width: 275px;
+    }
+}
