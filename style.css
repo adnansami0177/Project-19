@@ -23,3 +23,151 @@
         width: 275px;
     }
 }
+
+
+@media screen and (max-width: 1200px) {
+    .custom-product{
+        width: 310px;
+    }
+}
+
+
+@media screen and (max-width: 992px) {
+    .custom-product{
+        width: 230px;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .custom-product{
+        width: 170px;
+    }
+}
+
+
+@media screen and (max-width: 540px) {
+    .custom-product{
+        width: 165px;
+    }
+}
+
+
+
+@media screen and (max-width: 524px) {
+    .custom-product{
+        width: 163px;
+    }
+
+    .custom-front{
+        font-size: 16px;
+
+    }
+
+    .custom-btn{
+        font-size: 14px;
+    }
+}
+
+
+
+@media screen and (max-width: 519px) {
+    .custom-product{
+        width: 158px;
+    }
+}
+
+
+
+@media screen and (max-width: 504px) {
+    .custom-product{
+        width: 154px;
+    }
+
+}
+
+@media screen and (max-width: 492px) {
+    .custom-product{
+        width: 149px;
+    }
+
+}
+
+@media screen and (max-width: 476px) {
+    .custom-product{
+        width: 146px;
+    }
+
+}
+
+
+@media screen and (max-width: 468px) {
+    .custom-product{
+        width: 220px;
+    }
+
+}
+
+
+@media screen and (max-width: 460px) {
+    .custom-product{
+        width: 215px;
+    }
+
+}
+
+
+@media screen and (max-width: 449px) {
+    .custom-product{
+        width: 210px;
+    }
+
+}
+
+@media screen and (max-width: 440px) {
+    .custom-product{
+        width: 198px;
+    }
+
+}
+
+
+@media screen and (max-width: 416px) {
+    .custom-product{
+        width: 185px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 390px) {
+    .custom-product{
+        width: 174px;
+    }
+
+}
+
+@media screen and (max-width: 368px) {
+    .custom-product{
+        width: 165px;
+    }
+
+}
+
+
+@media screen and (max-width: 350px) {
+    .custom-product{
+        width: 160px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 340px) {
+    .custom-product{
+        width: 350px;
+    }
+
+}
