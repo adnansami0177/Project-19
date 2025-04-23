@@ -18,6 +18,38 @@
     height: 385px;
 }
 
+
+.front{
+    color: #f4d9a5;
+}
+
+
+.logo-edit{
+    padding-left: 30px;
+ }
+
+.help-edit{
+  
+    padding-left: 55px;
+}
+
+.policy-edit{
+     
+    padding-left: 77px;
+}
+
+.Quick-edit{
+    padding-left: 67px;
+}
+ 
+.text-edit{
+    padding-left: 15px;
+}
+
+
+
+
+
 @media screen and (max-width: 1399px) {
     .custom-product{
         width: 275px;
@@ -171,3 +203,51 @@
     }
 
 }
+
+
+
+@media screen and (max-width: 799px) {
+    .logo-edit{
+        padding-left: 17px;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+    .logo-edit{
+        width: 100%;
+        text-align: center;
+    }
+     .policy-edit{
+        padding-left: 240px;
+     }
+    .Quick-edit{
+        padding-left: 130px;
+    }
+    .help-edit{
+        padding-left: 130px;
+    }
+
+}
+
+@media screen and (max-width: 576px) {
+    .policy-edit{
+        padding-left: 132px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
